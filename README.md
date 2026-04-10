@@ -85,11 +85,7 @@ Projetos práticos desenvolvidos durante a [Formação Profissional em Engenhari
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [Python Big Data Processing](link) | Processamento de 1 bilhão de linhas | Python, DuckDB |
-| [CRUD API Data Application](link) | API REST com dados em produção | FastAPI, PostgreSQL, Streamlit |
-| [PDF Data Extraction](link) | Extração de PDFs via S3/SQS | AWS, Python |
-| [Databricks AI Project](link) | Agentes de IA com Vector Search | LangChain, Databricks |
-| [Copa do Mundo 2026](link) | Fan hub com estatísticas históricas da Copa | HTML, CSS, JS puro |
+| [Copa do Mundo 2026](https://github.com/mvitoria-mv/worldcup2026) | Fan hub com estatísticas históricas da Copa | HTML, CSS, JS puro |
 
 ---
 
